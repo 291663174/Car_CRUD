@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position:relative
+}
+
+body {
+    background: url(../images/bg.png);
+    background-size: 200% 200%;
+}
+
+.box3{
+    position:absolute; top:10px; bottom:0; left: 0; right: 0; margin: auto;
+}
+.box3 table tr td {
+    font-size: 14px;
+    line-height: 25px;
+    color: #3c5d88;
+    padding-bottom: 6px;
+    text-align:center;
+    vertical-align:middle;
+}
+
+.box4{
+    position:absolute; top:30px; bottom:0; left: 0; right: 0; margin: auto;
+}
+
+.box4 table tr td {
+    font-size: 14px;
+    line-height: 25px;
+    color: #3c5d88;
+    padding-bottom: 6px;
+    text-align:center;
+    vertical-align:middle;
+}
+
+.box5{
+    position:absolute; top:317px; bottom:0; left: 0; right: 0; margin: auto;
+}
